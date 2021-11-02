@@ -5,3 +5,4 @@ ok
 ok
 ok
 print("ok")
+print("ok")
